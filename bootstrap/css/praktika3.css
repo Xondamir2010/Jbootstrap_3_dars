@@ -1,0 +1,111 @@
+.container{
+    margin-top: 200px;
+}
+.sus1{
+    color: deepskyblue;
+}
+.sus2{
+    color: deepskyblue;
+}
+.sus3{
+    color: deepskyblue;
+}
+.sus4{
+    color: deepskyblue;
+}
+.sus5{
+    color: deepskyblue;
+}
+.krch{
+    font-weight: bold;
+}
+.btn-success{
+    height: 20px;
+    margin-top: 13px;
+}
+.btn-success p{
+    margin-top: -13px;
+}
+.btn-warning{
+    height: 20px;
+    margin-top: 13px;
+}
+.btn-warning p{
+    margin-top: -13px;
+}
+.btn-danger{
+    height: 20px;
+    margin-top: 13px;
+}
+.btn-danger p{
+    margin-top: -13px;
+}
+.btncha{
+    background-color: #67c2b3;
+    color: white;
+    height: 40px;
+    margin-top: 5px;
+}
+.btncha p{
+    color: white;
+    font-size: 20px;
+    margin-top: -7px;
+}
+.Manage{
+    width: 1033px;
+    height: 100px;
+    background-color: darkblue;
+    position: absolute;
+    top: 100px;
+    left: 402px;
+    color: white;
+}
+.textcha{
+    margin-left: 10px;
+    font-weight: 900;
+}
+h1{
+    display: inline-block;
+    margin-top: 25px;
+}
+.buttoncha1{
+    background-color: #28a745;
+    width: 50px;
+    color: white;
+}
+.buttoncha2{
+    background-color: #ffc107;
+    width: 70px;
+    color: white;
+}
+.buttoncha3{
+    background-color: #dc3545;
+    width: 60px;
+    color: white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.btn-group{
+    height: 40px;
+    text-decoration: none;
+    margin-left: 400px;
+    margin-top: -20px;
+}
+
+.buttoncha1 p{
+    margin-left: 3px;
+    margin-top: 7px;
+}
+.buttoncha2 p{
+    margin-left: 8px;
+    margin-top: 7px;
+}
+.buttoncha3 p{
+    margin-left: 6px;
+    margin-top: 7px;
+}
+
+
+
+
+

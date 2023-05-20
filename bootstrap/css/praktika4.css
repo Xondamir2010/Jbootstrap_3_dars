@@ -1,0 +1,108 @@
+.Messi_chort_va_lox{
+    font-weight: bold;
+}
+input{
+    width: 50px;
+    display: inline-block;
+}
+.show{
+    display: inline-block;
+}
+.entr{
+    display: inline-block;
+}
+.wrap{
+    position: absolute;
+    top: 15px;
+    left: 330px;
+}
+.container{
+    margin-top: 50px;
+}
+.yaaahuu{
+    display: inline-block;
+}
+#search{
+    width: 100px;
+}
+.wrap2{
+    margin-left: 1263px;
+    position: absolute;
+    top: 11px;
+}
+.bir{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.ikki{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.uch{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.tort{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.besh{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.tochka{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.yigirma{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.next{
+    width: 50px;
+    height: 35px;
+    border: 1px solid black;
+    display: inline-block;
+}
+.next p{
+    margin-left: 5px;
+    display: inline-block;
+}
+.class{
+    position: absolute;
+    top: -4px;
+    left: -696px;
+}
+.wrap3{
+    position: absolute;
+    top: 740px;
+    left: 980px;
+}
+.wrap3 input{
+    width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
